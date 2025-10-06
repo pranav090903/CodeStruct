@@ -2,7 +2,7 @@
 
  <!--![DSA Visualizer Banner](https://your-banner-image-link.com) Optional: Add a cool banner image -->
 
-Live Application: [🔗 Open App](https://dsavisualizerbyharshraj1695.netlify.app/)
+
 
 ---
 
@@ -80,7 +80,7 @@ This is a modern, interactive **Data Structures and Algorithms Visualizer** buil
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/harshraj1695/DSA-Visualizer.git
+git clone https://github.com/pranav090903/DSA-Visualizer.git
 cd dsa-visualizer
 npm install
 npm run dev
